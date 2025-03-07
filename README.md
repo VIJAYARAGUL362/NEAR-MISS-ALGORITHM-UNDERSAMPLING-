@@ -5,15 +5,15 @@ This repository demonstrates the use of the NearMiss undersampling technique to 
 
 ## Table of Contents
 
-1.  [Introduction](#introduction)
-2.  [Dataset](#dataset)
-3.  [Libraries Used](#libraries-used)
-4.  [Visualization](#visualization)
-5.  [NearMiss Undersampling](#nearmiss-undersampling)
-6.  [Usage](#usage)
-7.  [Future Improvements](#future-improvements)
-8.  [Contributing](#contributing)
-9.  [License](#license)
+1.  Introduction
+2.  Dataset
+3.  Libraries Used
+4.  Visualization
+5.  NearMiss Undersampling
+6.  Usage
+7.  Future Improvements
+8.  Contributing
+9.  License
 
 ## Introduction
 
